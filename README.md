@@ -6,4 +6,4 @@ updates made on master on Github before rebase
 
 ## Purpose 
 
-This file is just readme file 
+this pupose of this file 
